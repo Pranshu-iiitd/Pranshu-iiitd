@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Web Dev and DSA**
 
-- 💬 Ask me about **Python and DSA.**
+- 💬 Ask me about **Python, C++ and DSA.**
 
 - 📫 How to reach me **pranshu23385@iiitd.ac.in**
 
